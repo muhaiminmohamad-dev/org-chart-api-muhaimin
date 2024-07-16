@@ -47,8 +47,8 @@ This project provides RESTful APIs to upload and update the organizational chart
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
-    cd org-chart-api
+    git clone https://github.com/muhaiminmohamad-dev/org-chart-api-muhaimin.git
+    cd org-chart-api-muhaimin
     ```
 
 2. **Install Dependencies**:
